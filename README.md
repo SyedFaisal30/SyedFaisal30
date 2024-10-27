@@ -1,11 +1,11 @@
+
+# 💫 About Me:
+
 - 🔭 I’m currently working on E-Commerce Website
 - 🌱 I’m currently learning Mern Stack(Next.js)
 - 😄 Web Application
 - ⚡ Full Stack
 
-# 💫 About Me:
-
-Currently Working on E-Commerce website<br>Learning MERN Stack <br>React, Redux is done<br>Learning Next.js, Express.js, Mongo DB, Postgres SQL<br>Web Development<br>
 
 ## 🌐 Socials:
 
